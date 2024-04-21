@@ -1,6 +1,6 @@
 ## Bluebook for Bulldozers
 
-This project trains a machine learning model to predict the price of bulldozers based on a time-series dataset using a Random Forest Regression model.
+This project trains a Random Forest Regression model to predict the price of bulldozers based on a time-series dataset.
 
 The model is then evaluated using the RMSLE (root mean squared log error) between the actual and predicted auction prices.
 
