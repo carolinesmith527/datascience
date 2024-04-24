@@ -4,6 +4,8 @@ This project predicts drug activation labels for the DHFR dataset. DHFR stands f
 
 Sutherland and Weaver (2004) discuss QSAR models for dihydrofolate reductase (DHFR) inhibition. This data set contains values for 325 compounds. For each compound, 228 molecular descriptors have been calculated. Additionally, each samples is designated as "active" or "inactive". 
 
+I used this [Data Professor](https://www.youtube.com/watch?v=VzXfPCTHRTg) tutorial for guidance.
+
 ### Details
 
 The data frame `dhfr` contains a column called Y with the outcome classification. The remainder of the columns are molecular descriptor values. 
