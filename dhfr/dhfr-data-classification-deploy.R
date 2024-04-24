@@ -1,9 +1,9 @@
 
 # Importing libraries
-library(datasets) # Contains the Iris data set
+library(datasets) # Contains the dhfr data set
 library(caret) # Package for machine learning algorithms / CARET stands for Classification And REgression Training
 
-# Importing the Iris data set
+# Importing the dhfr data set
 data(dhfr)
 
 # Check to see if there are missing data?
