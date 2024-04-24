@@ -6,7 +6,7 @@ Sutherland and Weaver (2004) discuss QSAR models for dihydrofolate reductase (DH
 
 ### Details
 
-The data frame dhfr contains a column called Y with the outcome classification. The remainder of the columns are molecular descriptor values. 
+The data frame `dhfr` contains a column called Y with the outcome classification. The remainder of the columns are molecular descriptor values. 
 
 ### Value
 
